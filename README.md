@@ -1,2 +1,6 @@
-# test1
-test
+⭐️ Tech
+
+![JavaScript]
+![LUA]
+![HTML]
+![CSS]
